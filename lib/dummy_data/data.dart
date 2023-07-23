@@ -15,7 +15,7 @@ final songData = {
   3: classSongs(3, "Marcy and Simona", "Som", 5),
   4: classSongs(4, "Beelzeboss", "Som", 5),
   5: classSongs(5, "It's not like I like you", "Som", 5),
-  6: classSongs(6, "Sincerely me", "Som", 5),
+  6: classSongs(6, "Sincerely me", "Som", 52),
 };
 
 final Map<String, dynamic> semanas = {
